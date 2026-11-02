@@ -26,6 +26,11 @@ A passionate developer enthusiast who loves coding and exploring new tech.
 ![Redmi](https://img.shields.io/badge/Redmi_Turbo_4_Pro-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
 ![Huawei](https://img.shields.io/badge/HUAWEI_MatePad_2024-C7000B?style=flat-square&logo=huawei&logoColor=white)
 
+### 🏁 FiA Formula One World Championship
+
+![Mercedes-AMG Petronas](https://img.shields.io/badge/Mercedes--AMG_Petronas-F1_Team-00A19C?style=for-the-badge&logo=mercedes&logoColor=white)
+![Kimi Antonelli](https://img.shields.io/badge/Kimi_Antonelli-Driver_%2312-F5010C?style=for-the-badge&logo=formula1&logoColor=white)
+
 ### 📊 GitHub Stats
 
 ![Wing-Smith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wing-Smith&show_icons=true&theme=radical)
