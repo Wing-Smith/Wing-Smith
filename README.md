@@ -30,7 +30,7 @@ A passionate developer enthusiast who loves coding and exploring new tech.
 
 ![Mercedes-AMG Petronas](https://img.shields.io/badge/Mercedes--AMG_Petronas-F1_Team-00A19C?style=for-the-badge&logo=mercedes&logoColor=white)
 ![Kimi Antonelli](https://img.shields.io/badge/Kimi_Antonelli-Mercedes_Driver-00A19C?style=for-the-badge&logo=mercedes&logoColor=white)
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='360' height='28' viewBox='0 0 360 28'%3E%3Cdefs%3E%3ClinearGradient id='gold' x1='0%25' y1='0%25' x2='200%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='%23FFD700'/%3E%3Cstop offset='50%25' stop-color='%23FFF8DC'/%3E%3Cstop offset='100%25' stop-color='%23FFD700'/%3E%3Canimate attributeName='x1' values='-100%25;100%25' dur='1.5s' repeatCount='indefinite'/%3E%3Canimate attributeName='x2' values='0%25;200%25' dur='1.5s' repeatCount='indefinite'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100%25' height='100%25' rx='4' fill='url(%23gold)'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-family='Verdana,sans-serif' font-size='11' font-weight='bold' fill='%23000'%3E🏆 KIMI ANTONELLI - WORLD CHAMPION 2026 🏆%3C/text%3E%3C/svg%3E" alt="Kimi Antonelli World Champion 2026">
+![World Champion 2026](https://img.shields.io/badge/Kimi_Antonelli-World_Champion_2026-FFD700?style=for-the-badge&logo=formula1&logoColor=black)
 
 ### 📊 GitHub Stats
 
