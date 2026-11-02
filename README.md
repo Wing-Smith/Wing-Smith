@@ -29,7 +29,8 @@ A passionate developer enthusiast who loves coding and exploring new tech.
 ### 🏁 FiA Formula One World Championship
 
 ![Mercedes-AMG Petronas](https://img.shields.io/badge/Mercedes--AMG_Petronas-F1_Team-00A19C?style=for-the-badge&logo=mercedes&logoColor=white)
-![Kimi Antonelli](https://img.shields.io/badge/Kimi_Antonelli-Driver_%2312-F5010C?style=for-the-badge&logo=formula1&logoColor=white)
+![Kimi Antonelli](https://img.shields.io/badge/Kimi_Antonelli-Mercedes_Driver-00A19C?style=for-the-badge&logo=mercedes&logoColor=white)
+![World Champion](https://img.shields.io/badge/Kimi_Antonelli-World_Champion-FFD700?style=for-the-badge&logo=formula1&logoColor=black)
 
 ### 📊 GitHub Stats
 
